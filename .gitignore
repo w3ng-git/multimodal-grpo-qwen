@@ -1,0 +1,12 @@
+# 忽略所有文件
+*
+
+# 允许遍历目录
+!*/
+
+# 保留 .gitignore 自身
+!.gitignore
+
+# 白名单：只跟踪 .py 和 .json
+!*.py
+!*.json

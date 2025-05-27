@@ -1,0 +1,290 @@
+[
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "value": "描述这张图片 <|vision_start|>./images/01.jpg<|vision_end|>"
+      },
+      {
+        "role": "assistant",
+        "value": "这是一碗猪肚汤，汤色浓郁，呈现出深褐色。汤中有一块猪肚被勺子舀起，猪肚的纹理清晰可见，表面光滑，吸收了汤汁的味道。背景中可以看到一些餐具和调料，整体看起来非常诱人，适合在寒冷的天气里享用。"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "value": "描述这张图片 <|vision_start|>./images/01.jpg<|vision_end|>"
+      },
+      {
+        "role": "assistant",
+        "value": "这是一碗猪肚汤，汤色浓郁，呈现出深褐色。汤中有一块猪肚被勺子舀起，猪肚的纹理清晰可见，表面光滑，吸收了汤汁的味道。背景中可以看到一些餐具和调料，整体看起来非常诱人，适合在寒冷的天气里享用。"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "value": "描述这张图片 <|vision_start|>./images/01.jpg<|vision_end|>"
+      },
+      {
+        "role": "assistant",
+        "value": "这是一碗猪肚汤，汤色浓郁，呈现出深褐色。汤中有一块猪肚被勺子舀起，猪肚的纹理清晰可见，表面光滑，吸收了汤汁的味道。背景中可以看到一些餐具和调料，整体看起来非常诱人，适合在寒冷的天气里享用。"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "value": "描述这张图片 <|vision_start|>./images/01.jpg<|vision_end|>"
+      },
+      {
+        "role": "assistant",
+        "value": "这是一碗猪肚汤，汤色浓郁，呈现出深褐色。汤中有一块猪肚被勺子舀起，猪肚的纹理清晰可见，表面光滑，吸收了汤汁的味道。背景中可以看到一些餐具和调料，整体看起来非常诱人，适合在寒冷的天气里享用。"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "value": "描述这张图片 <|vision_start|>./images/01.jpg<|vision_end|>"
+      },
+      {
+        "role": "assistant",
+        "value": "这是一碗猪肚汤，汤色浓郁，呈现出深褐色。汤中有一块猪肚被勺子舀起，猪肚的纹理清晰可见，表面光滑，吸收了汤汁的味道。背景中可以看到一些餐具和调料，整体看起来非常诱人，适合在寒冷的天气里享用。"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "value": "描述这张图片 <|vision_start|>./images/01.jpg<|vision_end|>"
+      },
+      {
+        "role": "assistant",
+        "value": "这是一碗猪肚汤，汤色浓郁，呈现出深褐色。汤中有一块猪肚被勺子舀起，猪肚的纹理清晰可见，表面光滑，吸收了汤汁的味道。背景中可以看到一些餐具和调料，整体看起来非常诱人，适合在寒冷的天气里享用。"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "value": "描述这张图片 <|vision_start|>./images/01.jpg<|vision_end|>"
+      },
+      {
+        "role": "assistant",
+        "value": "这是一碗猪肚汤，汤色浓郁，呈现出深褐色。汤中有一块猪肚被勺子舀起，猪肚的纹理清晰可见，表面光滑，吸收了汤汁的味道。背景中可以看到一些餐具和调料，整体看起来非常诱人，适合在寒冷的天气里享用。"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "value": "描述这张图片 <|vision_start|>./images/01.jpg<|vision_end|>"
+      },
+      {
+        "role": "assistant",
+        "value": "这是一碗猪肚汤，汤色浓郁，呈现出深褐色。汤中有一块猪肚被勺子舀起，猪肚的纹理清晰可见，表面光滑，吸收了汤汁的味道。背景中可以看到一些餐具和调料，整体看起来非常诱人，适合在寒冷的天气里享用。"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "value": "描述这张图片 <|vision_start|>./images/01.jpg<|vision_end|>"
+      },
+      {
+        "role": "assistant",
+        "value": "这是一碗猪肚汤，汤色浓郁，呈现出深褐色。汤中有一块猪肚被勺子舀起，猪肚的纹理清晰可见，表面光滑，吸收了汤汁的味道。背景中可以看到一些餐具和调料，整体看起来非常诱人，适合在寒冷的天气里享用。"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "value": "描述这张图片 <|vision_start|>./images/01.jpg<|vision_end|>"
+      },
+      {
+        "role": "assistant",
+        "value": "这是一碗猪肚汤，汤色浓郁，呈现出深褐色。汤中有一块猪肚被勺子舀起，猪肚的纹理清晰可见，表面光滑，吸收了汤汁的味道。背景中可以看到一些餐具和调料，整体看起来非常诱人，适合在寒冷的天气里享用。"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "value": "描述这张图片 <|vision_start|>./images/01.jpg<|vision_end|>"
+      },
+      {
+        "role": "assistant",
+        "value": "这是一碗猪肚汤，汤色浓郁，呈现出深褐色。汤中有一块猪肚被勺子舀起，猪肚的纹理清晰可见，表面光滑，吸收了汤汁的味道。背景中可以看到一些餐具和调料，整体看起来非常诱人，适合在寒冷的天气里享用。"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "value": "描述这张图片 <|vision_start|>./images/01.jpg<|vision_end|>"
+      },
+      {
+        "role": "assistant",
+        "value": "这是一碗猪肚汤，汤色浓郁，呈现出深褐色。汤中有一块猪肚被勺子舀起，猪肚的纹理清晰可见，表面光滑，吸收了汤汁的味道。背景中可以看到一些餐具和调料，整体看起来非常诱人，适合在寒冷的天气里享用。"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "value": "描述这张图片 <|vision_start|>./images/01.jpg<|vision_end|>"
+      },
+      {
+        "role": "assistant",
+        "value": "这是一碗猪肚汤，汤色浓郁，呈现出深褐色。汤中有一块猪肚被勺子舀起，猪肚的纹理清晰可见，表面光滑，吸收了汤汁的味道。背景中可以看到一些餐具和调料，整体看起来非常诱人，适合在寒冷的天气里享用。"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "value": "描述这张图片 <|vision_start|>./images/01.jpg<|vision_end|>"
+      },
+      {
+        "role": "assistant",
+        "value": "这是一碗猪肚汤，汤色浓郁，呈现出深褐色。汤中有一块猪肚被勺子舀起，猪肚的纹理清晰可见，表面光滑，吸收了汤汁的味道。背景中可以看到一些餐具和调料，整体看起来非常诱人，适合在寒冷的天气里享用。"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "value": "描述这张图片 <|vision_start|>./images/01.jpg<|vision_end|>"
+      },
+      {
+        "role": "assistant",
+        "value": "这是一碗猪肚汤，汤色浓郁，呈现出深褐色。汤中有一块猪肚被勺子舀起，猪肚的纹理清晰可见，表面光滑，吸收了汤汁的味道。背景中可以看到一些餐具和调料，整体看起来非常诱人，适合在寒冷的天气里享用。"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "value": "描述这张图片 <|vision_start|>./images/01.jpg<|vision_end|>"
+      },
+      {
+        "role": "assistant",
+        "value": "这是一碗猪肚汤，汤色浓郁，呈现出深褐色。汤中有一块猪肚被勺子舀起，猪肚的纹理清晰可见，表面光滑，吸收了汤汁的味道。背景中可以看到一些餐具和调料，整体看起来非常诱人，适合在寒冷的天气里享用。"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "value": "描述这张图片 <|vision_start|>./images/01.jpg<|vision_end|>"
+      },
+      {
+        "role": "assistant",
+        "value": "这是一碗猪肚汤，汤色浓郁，呈现出深褐色。汤中有一块猪肚被勺子舀起，猪肚的纹理清晰可见，表面光滑，吸收了汤汁的味道。背景中可以看到一些餐具和调料，整体看起来非常诱人，适合在寒冷的天气里享用。"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "value": "描述这张图片 <|vision_start|>./images/01.jpg<|vision_end|>"
+      },
+      {
+        "role": "assistant",
+        "value": "这是一碗猪肚汤，汤色浓郁，呈现出深褐色。汤中有一块猪肚被勺子舀起，猪肚的纹理清晰可见，表面光滑，吸收了汤汁的味道。背景中可以看到一些餐具和调料，整体看起来非常诱人，适合在寒冷的天气里享用。"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "value": "描述这张图片 <|vision_start|>./images/01.jpg<|vision_end|>"
+      },
+      {
+        "role": "assistant",
+        "value": "这是一碗猪肚汤，汤色浓郁，呈现出深褐色。汤中有一块猪肚被勺子舀起，猪肚的纹理清晰可见，表面光滑，吸收了汤汁的味道。背景中可以看到一些餐具和调料，整体看起来非常诱人，适合在寒冷的天气里享用。"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "value": "描述这张图片 <|vision_start|>./images/01.jpg<|vision_end|>"
+      },
+      {
+        "role": "assistant",
+        "value": "这是一碗猪肚汤，汤色浓郁，呈现出深褐色。汤中有一块猪肚被勺子舀起，猪肚的纹理清晰可见，表面光滑，吸收了汤汁的味道。背景中可以看到一些餐具和调料，整体看起来非常诱人，适合在寒冷的天气里享用。"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "value": "描述这张图片 <|vision_start|>./images/01.jpg<|vision_end|>"
+      },
+      {
+        "role": "assistant",
+        "value": "这是一碗猪肚汤，汤色浓郁，呈现出深褐色。汤中有一块猪肚被勺子舀起，猪肚的纹理清晰可见，表面光滑，吸收了汤汁的味道。背景中可以看到一些餐具和调料，整体看起来非常诱人，适合在寒冷的天气里享用。"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "value": "描述这张图片 <|vision_start|>./images/01.jpg<|vision_end|>"
+      },
+      {
+        "role": "assistant",
+        "value": "这是一碗猪肚汤，汤色浓郁，呈现出深褐色。汤中有一块猪肚被勺子舀起，猪肚的纹理清晰可见，表面光滑，吸收了汤汁的味道。背景中可以看到一些餐具和调料，整体看起来非常诱人，适合在寒冷的天气里享用。"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "value": "描述这张图片 <|vision_start|>./images/01.jpg<|vision_end|>"
+      },
+      {
+        "role": "assistant",
+        "value": "这是一碗猪肚汤，汤色浓郁，呈现出深褐色。汤中有一块猪肚被勺子舀起，猪肚的纹理清晰可见，表面光滑，吸收了汤汁的味道。背景中可以看到一些餐具和调料，整体看起来非常诱人，适合在寒冷的天气里享用。"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "user",
+        "value": "描述这张图片 <|vision_start|>./images/01.jpg<|vision_end|>"
+      },
+      {
+        "role": "assistant",
+        "value": "这是一碗猪肚汤，汤色浓郁，呈现出深褐色。汤中有一块猪肚被勺子舀起，猪肚的纹理清晰可见，表面光滑，吸收了汤汁的味道。背景中可以看到一些餐具和调料，整体看起来非常诱人，适合在寒冷的天气里享用。"
+      }
+    ]
+  }
+]

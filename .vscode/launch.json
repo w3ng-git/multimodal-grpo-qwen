@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Accelerate: Train Food Classifier",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "accelerate.commands.launch",
+            "args": [
+                "--config_file=accelerate_config.yaml",
+                "train_food_classifier.py"
+            ],
+            "console": "integratedTerminal"
+        }
+    ]
+}
