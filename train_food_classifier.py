@@ -124,11 +124,10 @@ def main():
         --external_plugins food_plugin.py \
         --reward_funcs food_classification format \
         --use_vllm true \
-        --vllm_mode server \
-        --vllm_server_host 127.0.0.1 \
-        --vllm_server_port 8000 \
-        --vllm_max_model_len 2048 \
-        --vllm_limit_mm_per_prompt 4096 \
+        --vllm_device 6 \
+        --vllm_gpu_memory_utilization 0.8 \
+        --vllm_max_model_len 8192 \
+        --vllm_limit_mm_per_prompt {"image":1} \
         --train_type full \
         --torch_dtype bfloat16 \
         --dataset '{dataset_path}' \
@@ -153,7 +152,7 @@ def main():
         --gradient_checkpointing true \
         --log_completions true \
         --num_iterations 1 \
-        --async_generate true \
+        --async_generate false \
         --beta 0.001 \
         --max_grad_norm 0.5
     """

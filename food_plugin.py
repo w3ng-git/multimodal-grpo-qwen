@@ -11,18 +11,18 @@ class FoodClassificationORM(ORM):
 
     def __call__(
         self,
-        predictions: Union[List[str], str],
-        references: Union[List[str], str],
+        completions: Union[List[str], str],
+        solution: Union[List[str], str],
         *args,
         **kwargs,
     ) -> Union[float, List[float]]:
-        if isinstance(predictions, str):
-            predictions = [predictions]
-        if isinstance(references, str):
-            references = [references]
+        if isinstance(completions, str):
+            completions = [completions]
+        if isinstance(solution, str):
+            solution = [solution]
 
         scores = []
-        for p, r in zip(predictions, references):
+        for p, r in zip(completions, solution):
             # 提取预测答案中的<answer>内容
             answer_match = re.search(r'<answer>(.*?)</answer>', p, re.DOTALL)
             pred_answer = answer_match.group(1).strip() if answer_match else ""
@@ -53,16 +53,16 @@ class FormatORM(ORM):
 
     def __call__(
         self,
-        predictions: Union[List[str], str],
-        references: Union[List[str], str],
+        completions: Union[List[str], str],
+        solution: Union[List[str], str],
         *args,
         **kwargs,
     ) -> Union[float, List[float]]:
-        if isinstance(predictions, str):
-            predictions = [predictions]
+        if isinstance(completions, str):
+            completions = [completions]
 
         scores = []
-        for p in predictions:
+        for p in completions:
             score = 0.0
             
             # 检查analyse标签
