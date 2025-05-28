@@ -1,0 +1,3325 @@
+{
+  "accuracy": 0.9529837251356239,
+  "total_samples": 553,
+  "correct_predictions": 527,
+  "detailed_results": [
+    {
+      "image_path": "test/bad_food/0003.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0009.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0014.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0027.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0030.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0058.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0089.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0126.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0133.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0151.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0157.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0171.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0177.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0179.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0180.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0226.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0236.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0241.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0256.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0270.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0278.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0286.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0289.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0290.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "正常食物",
+      "is_correct": false
+    },
+    {
+      "image_path": "test/bad_food/0297.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0309.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0311.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0320.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0325.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0332.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0333.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0339.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0341.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0357.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0371.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0375.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0399.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0405.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0421.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0428.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0431.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0432.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0435.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0445.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0446.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0450.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0452.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0462.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0467.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0468.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0484.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0496.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0498.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0505.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0507.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0518.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0544.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0560.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0564.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0574.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0590.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0615.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0620.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0623.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0634.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0675.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0685.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0696.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0702.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0704.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0710.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0715.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0718.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0723.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0725.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0730.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0749.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0780.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0800.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0828.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0833.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0836.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0863.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0872.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0907.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0913.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0916.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0919.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0924.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0926.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0930.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0944.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0947.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0948.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0951.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0963.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0969.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "正常食物",
+      "is_correct": false
+    },
+    {
+      "image_path": "test/bad_food/0982.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0986.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0987.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/0991.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1001.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1002.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1017.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1023.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1029.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1035.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1044.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "正常食物",
+      "is_correct": false
+    },
+    {
+      "image_path": "test/bad_food/1051.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "正常食物",
+      "is_correct": false
+    },
+    {
+      "image_path": "test/bad_food/1052.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1059.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1064.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1067.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1072.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1078.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1125.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1127.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1132.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1133.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1134.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1135.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1141.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1142.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1145.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1154.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1175.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1187.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1188.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1189.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1217.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1234.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1249.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1251.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1271.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1308.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1325.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1337.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1341.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1376.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1377.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1402.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1427.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1433.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1438.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1442.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1457.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1500.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1504.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1519.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1530.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1531.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1535.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1543.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1565.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1578.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1580.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1599.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1601.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1603.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1605.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1612.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1625.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1648.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1669.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1683.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1684.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1691.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1692.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "",
+      "is_correct": false
+    },
+    {
+      "image_path": "test/bad_food/1698.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "正常食物",
+      "is_correct": false
+    },
+    {
+      "image_path": "test/bad_food/1713.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1716.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1732.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1767.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1777.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1778.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1780.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1781.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1782.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1783.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1803.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1814.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1831.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1852.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1886.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1924.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1926.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "正常食物",
+      "is_correct": false
+    },
+    {
+      "image_path": "test/bad_food/1947.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1956.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1957.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1962.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1984.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/1993.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/2013.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/2016.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/2049.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "正常食物",
+      "is_correct": false
+    },
+    {
+      "image_path": "test/bad_food/2058.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/2077.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/2078.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/2093.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/2153.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "正常食物",
+      "is_correct": false
+    },
+    {
+      "image_path": "test/bad_food/2171.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/2172.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/2173.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/2186.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/2219.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "正常食物",
+      "is_correct": false
+    },
+    {
+      "image_path": "test/bad_food/2244.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "正常食物",
+      "is_correct": false
+    },
+    {
+      "image_path": "test/bad_food/2250.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/2273.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/2286.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/2295.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/2314.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/2330.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "正常食物",
+      "is_correct": false
+    },
+    {
+      "image_path": "test/bad_food/2379.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/2387.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/2394.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/2403.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/2410.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/2421.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/2424.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/2432.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "正常食物",
+      "is_correct": false
+    },
+    {
+      "image_path": "test/bad_food/2433.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/2434.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/2439.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/2461.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/2462.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/2482.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/2485.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/2493.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/2498.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/2500.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/2508.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "正常食物",
+      "is_correct": false
+    },
+    {
+      "image_path": "test/bad_food/2513.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/2530.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/2531.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/2555.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/2570.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/2592.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/2596.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/2622.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "正常食物",
+      "is_correct": false
+    },
+    {
+      "image_path": "test/bad_food/2626.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/2641.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/2642.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/2645.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/2650.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/2672.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/2674.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/2685.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "正常食物",
+      "is_correct": false
+    },
+    {
+      "image_path": "test/bad_food/2697.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/2704.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/2716.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/2726.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/bad_food/2727.jpg",
+      "ground_truth": "黑暗料理",
+      "predicted": "黑暗料理",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0003.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0009.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0014.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0027.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0030.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0048.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0061.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0080.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0087.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0103.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0109.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0123.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0129.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0131.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0132.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0178.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0188.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0193.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0208.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0222.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0230.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0238.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0241.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0242.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0249.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0261.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0263.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0272.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0277.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0284.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0285.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0291.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0293.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0309.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0323.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0327.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "黑暗料理",
+      "is_correct": false
+    },
+    {
+      "image_path": "test/good_food/0351.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0357.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0373.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0380.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0383.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0384.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0387.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0397.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0398.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0402.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0404.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0414.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0419.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0420.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0436.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0448.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0450.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0457.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0459.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0470.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0496.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0512.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0516.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0526.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0542.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0567.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0572.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0575.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0586.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0627.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0637.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0648.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0654.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0656.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0662.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0667.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0670.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0675.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0677.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0682.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0701.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0732.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0752.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0780.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0785.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0788.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0815.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0824.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0859.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0865.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0868.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0871.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0876.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0878.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0882.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0896.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0899.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0900.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0903.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0915.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0921.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0934.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0938.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0939.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0943.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0953.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0954.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0969.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0975.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "黑暗料理",
+      "is_correct": false
+    },
+    {
+      "image_path": "test/good_food/0981.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/0987.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "黑暗料理",
+      "is_correct": false
+    },
+    {
+      "image_path": "test/good_food/0996.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1003.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1004.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1011.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1016.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1019.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1024.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1030.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1077.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1079.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1084.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1085.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "黑暗料理",
+      "is_correct": false
+    },
+    {
+      "image_path": "test/good_food/1086.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1087.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1093.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1094.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1097.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1106.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1127.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1139.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1140.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1141.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1169.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1186.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1201.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1203.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1223.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1260.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1277.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1289.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1293.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "",
+      "is_correct": false
+    },
+    {
+      "image_path": "test/good_food/1328.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1329.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1354.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1379.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1385.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1390.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1394.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1409.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1452.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1456.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1471.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1482.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1483.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1487.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1495.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1517.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1530.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1532.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1551.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1553.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "黑暗料理",
+      "is_correct": false
+    },
+    {
+      "image_path": "test/good_food/1555.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1557.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1564.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1577.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1600.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1621.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1635.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1636.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1643.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1644.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1650.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1665.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1668.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1684.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1719.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1729.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1730.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1732.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1733.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1734.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1735.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1755.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "黑暗料理",
+      "is_correct": false
+    },
+    {
+      "image_path": "test/good_food/1766.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1781.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1795.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "黑暗料理",
+      "is_correct": false
+    },
+    {
+      "image_path": "test/good_food/1816.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1838.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1840.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1850.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1858.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1859.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1864.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1880.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1882.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1894.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1895.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1913.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1918.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1937.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1938.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1947.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1972.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1989.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1990.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/1991.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2002.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2022.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2045.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2051.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2070.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2080.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2088.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2106.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2120.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2162.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2168.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2173.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2182.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2188.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2197.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2200.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2208.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2209.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2210.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2215.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "黑暗料理",
+      "is_correct": false
+    },
+    {
+      "image_path": "test/good_food/2233.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2234.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2252.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2255.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2262.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2267.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2269.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2282.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2299.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2300.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2324.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2339.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2361.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2365.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2391.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2395.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2410.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "黑暗料理",
+      "is_correct": false
+    },
+    {
+      "image_path": "test/good_food/2411.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2414.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2419.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2441.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2443.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2454.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2466.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2473.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2485.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2495.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2496.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2534.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2562.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2571.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2575.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2585.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2601.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2604.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2618.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2620.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2622.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2626.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2634.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2647.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2655.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2662.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2672.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2677.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2685.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2700.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2703.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2709.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2741.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2746.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2752.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2759.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2772.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2787.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2788.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2793.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2800.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2805.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2819.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2826.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2860.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2873.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2875.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2886.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2900.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2921.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2933.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2941.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2948.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2953.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2958.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2963.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2983.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2987.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2989.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2990.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    },
+    {
+      "image_path": "test/good_food/2998.jpg",
+      "ground_truth": "正常食物",
+      "predicted": "正常食物",
+      "is_correct": true
+    }
+  ]
+}

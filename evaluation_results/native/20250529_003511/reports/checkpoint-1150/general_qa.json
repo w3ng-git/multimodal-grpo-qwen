@@ -1,0 +1,307 @@
+{
+    "name": "checkpoint-1150_general_qa",
+    "dataset_name": "general_qa",
+    "model_name": "checkpoint-1150",
+    "score": 1.0,
+    "metrics": [
+        {
+            "name": "Rouge-1-R",
+            "num": 553,
+            "score": 1.0,
+            "macro_score": 1.0,
+            "categories": [
+                {
+                    "name": [
+                        "default"
+                    ],
+                    "num": 553,
+                    "score": 1.0,
+                    "macro_score": 1.0,
+                    "subsets": [
+                        {
+                            "name": "food_test",
+                            "score": 1.0,
+                            "num": 553
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Rouge-1-P",
+            "num": 553,
+            "score": 0.0621,
+            "macro_score": 0.0621,
+            "categories": [
+                {
+                    "name": [
+                        "default"
+                    ],
+                    "num": 553,
+                    "score": 0.0621,
+                    "macro_score": 0.0621,
+                    "subsets": [
+                        {
+                            "name": "food_test",
+                            "score": 0.0621,
+                            "num": 553
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Rouge-1-F",
+            "num": 553,
+            "score": 0.1166,
+            "macro_score": 0.1166,
+            "categories": [
+                {
+                    "name": [
+                        "default"
+                    ],
+                    "num": 553,
+                    "score": 0.1166,
+                    "macro_score": 0.1166,
+                    "subsets": [
+                        {
+                            "name": "food_test",
+                            "score": 0.1166,
+                            "num": 553
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Rouge-2-R",
+            "num": 553,
+            "score": 1.0,
+            "macro_score": 1.0,
+            "categories": [
+                {
+                    "name": [
+                        "default"
+                    ],
+                    "num": 553,
+                    "score": 1.0,
+                    "macro_score": 1.0,
+                    "subsets": [
+                        {
+                            "name": "food_test",
+                            "score": 1.0,
+                            "num": 553
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Rouge-2-P",
+            "num": 553,
+            "score": 0.0492,
+            "macro_score": 0.0492,
+            "categories": [
+                {
+                    "name": [
+                        "default"
+                    ],
+                    "num": 553,
+                    "score": 0.0492,
+                    "macro_score": 0.0492,
+                    "subsets": [
+                        {
+                            "name": "food_test",
+                            "score": 0.0492,
+                            "num": 553
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Rouge-2-F",
+            "num": 553,
+            "score": 0.0934,
+            "macro_score": 0.0934,
+            "categories": [
+                {
+                    "name": [
+                        "default"
+                    ],
+                    "num": 553,
+                    "score": 0.0934,
+                    "macro_score": 0.0934,
+                    "subsets": [
+                        {
+                            "name": "food_test",
+                            "score": 0.0934,
+                            "num": 553
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Rouge-L-R",
+            "num": 553,
+            "score": 1.0,
+            "macro_score": 1.0,
+            "categories": [
+                {
+                    "name": [
+                        "default"
+                    ],
+                    "num": 553,
+                    "score": 1.0,
+                    "macro_score": 1.0,
+                    "subsets": [
+                        {
+                            "name": "food_test",
+                            "score": 1.0,
+                            "num": 553
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Rouge-L-P",
+            "num": 553,
+            "score": 0.0569,
+            "macro_score": 0.0569,
+            "categories": [
+                {
+                    "name": [
+                        "default"
+                    ],
+                    "num": 553,
+                    "score": 0.0569,
+                    "macro_score": 0.0569,
+                    "subsets": [
+                        {
+                            "name": "food_test",
+                            "score": 0.0569,
+                            "num": 553
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Rouge-L-F",
+            "num": 553,
+            "score": 0.1071,
+            "macro_score": 0.1071,
+            "categories": [
+                {
+                    "name": [
+                        "default"
+                    ],
+                    "num": 553,
+                    "score": 0.1071,
+                    "macro_score": 0.1071,
+                    "subsets": [
+                        {
+                            "name": "food_test",
+                            "score": 0.1071,
+                            "num": 553
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "bleu-1",
+            "num": 553,
+            "score": 0.0561,
+            "macro_score": 0.0561,
+            "categories": [
+                {
+                    "name": [
+                        "default"
+                    ],
+                    "num": 553,
+                    "score": 0.0561,
+                    "macro_score": 0.0561,
+                    "subsets": [
+                        {
+                            "name": "food_test",
+                            "score": 0.0561,
+                            "num": 553
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "bleu-2",
+            "num": 553,
+            "score": 0.0502,
+            "macro_score": 0.0502,
+            "categories": [
+                {
+                    "name": [
+                        "default"
+                    ],
+                    "num": 553,
+                    "score": 0.0502,
+                    "macro_score": 0.0502,
+                    "subsets": [
+                        {
+                            "name": "food_test",
+                            "score": 0.0502,
+                            "num": 553
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "bleu-3",
+            "num": 553,
+            "score": 0.0442,
+            "macro_score": 0.0442,
+            "categories": [
+                {
+                    "name": [
+                        "default"
+                    ],
+                    "num": 553,
+                    "score": 0.0442,
+                    "macro_score": 0.0442,
+                    "subsets": [
+                        {
+                            "name": "food_test",
+                            "score": 0.0442,
+                            "num": 553
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "bleu-4",
+            "num": 553,
+            "score": 0.0382,
+            "macro_score": 0.0382,
+            "categories": [
+                {
+                    "name": [
+                        "default"
+                    ],
+                    "num": 553,
+                    "score": 0.0382,
+                    "macro_score": 0.0382,
+                    "subsets": [
+                        {
+                            "name": "food_test",
+                            "score": 0.0382,
+                            "num": 553
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
